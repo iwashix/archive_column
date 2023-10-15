@@ -2944,7 +2944,7 @@ ul.pagination span {
         #archive-column p {
             font-size: 1.4rem;
         }
-
+    }
 
 
     @media screen and (max-width: 320px) {
@@ -2952,4 +2952,3 @@ ul.pagination span {
             border-bottom: 2px solid;
         }
     }
-}
