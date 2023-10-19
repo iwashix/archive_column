@@ -714,7 +714,7 @@ h1 {
     font: inherit;
     background: none;
     transition: .3s ease;
-    background-image: url(/archive-column/archive-img/top4.png);
+    background-image: url(../archive-column/archive-img/top4.png);
     background-size: cover;
 }
 
@@ -723,7 +723,7 @@ h1 {
     width: 100%;
 } */
 #top-btn:hover {
-    background-image: url(/archive-column/archive-img/top2.png);
+    background-image: url(../archive-column/archive-img/top2.png);
 }
 
 
