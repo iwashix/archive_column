@@ -547,6 +547,7 @@ h1 {
 .outer {
     max-width: 1250px;
     width: 100%;
+    padding: 0 20px;
     margin: 0 auto;
     margin-top: 195px;
 }
@@ -629,7 +630,7 @@ h1 {
 
 .archive-contents li img {
     width: 100%;
-    height: auto;
+    height: 255px;
     object-fit: cover;
     border-radius: 10px;
 }
@@ -3018,7 +3019,6 @@ ul.pagination span {
     }
 
     .outer {
-        background-color: #f2eafc;
         margin-top: 88px;
     }
 
