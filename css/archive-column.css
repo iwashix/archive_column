@@ -586,13 +586,11 @@ h1 {
     background-color: #A371E3;
     border-color: #A371E3;
     color: white;
-    transition: .1s;
 }
 
 .tags input:checked+label {
     background: #792DDC;
     color: #FFF;
-    transition: .2s;
 }
 
 .tags input:checked+label:hover {
